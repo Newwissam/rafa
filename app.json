@@ -66,11 +66,6 @@
         "value": "",
         "required": false
       },
-      "UPSTREAM_REPO": {
-        "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/BALVX/Subscribers",
-        "required": false
-      },
       "GIT_TOKEN": {
         "description": "If you dont know this, Leave as it is",
         "value": "",
